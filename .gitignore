@@ -1,4 +1,8 @@
+# C build outputs
+*.o
 *.out
 *.exe
-Caesar-Cipher
-bruteForce
+
+# Caesar-Cipher binaries
+Caesar-Cipher/Caesar-Cipher
+Caesar-Cipher/bruteForce
