@@ -4,7 +4,7 @@
 
 This project implements vignere cipher in C.
 
-This progrma reads key and message from the users, then encrypted message.
+This program reads key and message from the users, then encrypted message.
 
 ## How it works
 Vigenere cipher is polyalphabetic substitution cipher. It encrypts each alphabet character by shifting it according to the corresponding key character.
